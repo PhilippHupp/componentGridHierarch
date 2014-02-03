@@ -1,18 +1,18 @@
 component_grid_hierarchization
-==============================
+------------------------------------------------------------------
 
 
-============================================================
+------------------------------------------------------------------
  Reference for Citing
-============================================================
+------------------------------------------------------------------
 
 Philipp Hupp
 Performance of Unidirectional Hierarchization for Component Grids Virtually Maximized
 submitted to International Conference on Computational Science (ICCS) 2014
 
-============================================================
+------------------------------------------------------------------
  About the Software
-============================================================
+------------------------------------------------------------------
 
 
 Hierarchization Algorithm for the Component Grids of the Sparse Grid Combination Technique
