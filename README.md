@@ -1,4 +1,4 @@
-component_grid_hierarchization
+componentGridHierarch
 *********************************************************************
 
 
@@ -9,7 +9,7 @@ Philipp Hupp
 
 Performance of Unidirectional Hierarchization for Component Grids Virtually Maximized
 
-submitted to the International Conference on Computational Science (ICCS) 2014
+accepted as poster paper at the International Conference on Computational Science (ICCS) 2014
 
 *********************************************************************
  About the Software
