@@ -9,7 +9,7 @@ Philipp Hupp
 
 Performance of Unidirectional Hierarchization for Component Grids Virtually Maximized
 
-accepted as poster paper at the International Conference on Computational Science (ICCS) 2014
+accepted at the International Conference on Computational Science (ICCS) 2014.
 
 *********************************************************************
  About the Software
