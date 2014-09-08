@@ -4,13 +4,10 @@
 #include "CombiGrid.h"
 #include <sstream>
 #include <iostream>
-//#include <malloc.h>
 #include "func.cpp"
 #include "immintrin.h"
 #include "omp.h"
 #include <chrono>
-
-// wieder raus?
 #include <math.h>
 
 
