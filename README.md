@@ -8,17 +8,17 @@ Published as "Performance of Unidirectional Hierarchization for Component Grids 
 BibTeX:
 *********************************************************************
 @inproceedings{hupp14performance,
-  title={Performance of Unidirectional Hierarchization for Component Grids Virtually Maximized},
-  author={Hupp, Philipp},
-  booktitle={2014 International Conference on Computational Science},
-  series={Procedia Computer Science},
-  volume={29},
-  publisher = {Elsevier},
-  year      = {2014},
-  pages = {2272--2283},
-  issn = {1877-0509},
-  doi = {http://dx.doi.org/10.1016/j.procs.2014.05.212},
-  url = {http://www.sciencedirect.com/science/article/pii/S1877050914003895},
+ title={Performance of Unidirectional Hierarchization for Component Grids Virtually Maximized},
+ author={Hupp, Philipp},
+ booktitle={2014 International Conference on Computational Science},
+ series={Procedia Computer Science},
+ volume={29},
+ publisher = {Elsevier},
+ year = {2014},
+ pages = {2272--2283},
+ issn = {1877-0509},
+ doi = {http://dx.doi.org/10.1016/j.procs.2014.05.212},
+ url = {http://www.sciencedirect.com/science/article/pii/S1877050914003895},
 }
 
 *********************************************************************
